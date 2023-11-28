@@ -1,6 +1,6 @@
-- 👋 Hi, I’m YANCLO Paule
+- 👋 Hi, I’m YANCLO Ursula
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me mahougnon.yanclo@gmail.com
 
